@@ -1,0 +1,1 @@
+take control of the plane and save it from the obstacles.Catch black powerups and the special green ones and ignore the red ones because they'll decrease the score by 30.Key to success in this game is time, the more you stay in game, the more you score as it increases with the time as well.
